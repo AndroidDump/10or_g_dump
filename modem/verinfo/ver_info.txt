@@ -1,0 +1,21 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.8953.2.8.4-00017-00000-1", 
+        "apps": "LA.UM.6.6.r1-06700-89xx.0-1.163422.0.168506.1", 
+        "boot": "BOOT.BF.3.3-00228-M8917LAAAANAZB-1", 
+        "common": "MSM8953.LA.3.0.1-00420-STD.PROD-1.169336.1.171598.1", 
+        "cpe": "CPE.TSF.1.0-00035-W9335AAAAAAAZQ-1", 
+        "glue": "GLUE.MSM8953.3.0.1-00018-NOOP_TEST-1", 
+        "modem": "MPSS.TA.2.3.c1-00673-8953_GEN_PACK-1.169336.1.171598.1", 
+        "rpm": "RPM.BF.2.4-00054-M8953AAAAANAZR-1", 
+        "tz": "TZ.BF.4.0.5-00070-M8937AAAAANAZT-1.149566.0.158288.1", 
+        "video": "VIDEO.VE.4.4-00034-PROD-1", 
+        "wcnss": "CNSS.PR.4.0-00472-M8953BAAAANAZW-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "MSM8953.LA.3.0.1-00420-STD.PROD-1.169336.1.171598.1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2019-03-28 18:46:43"
+    }, 
+    "Version": "1.0"
+}

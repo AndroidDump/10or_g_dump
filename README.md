@@ -1,0 +1,13 @@
+# G-user 8.1.0 OPM1.171019.019 10or_G_V1_0_82 release-keys
+- manufacturer: 10or
+- platform: msm8953
+- codename: G
+- flavor: zql1590-user
+- release: 8.1.0
+- id: OPM1.171019.019
+- incremental: 10or_G_V1_0_82
+- tags: release-keys
+- fingerprint: 10or/G/G:8.1.0/OPM1.171019.019/10or_G_V1_0_82:user/release-keys
+- brand: 10or
+- branch: G-user-8.1.0-OPM1.171019.019-10or_G_V1_0_82-release-keys
+- repo: 10or_g_dump
